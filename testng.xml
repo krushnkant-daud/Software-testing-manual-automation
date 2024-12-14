@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="seleniumWebdriver.TC008"/>
+      <class name="seleniumWebdriver.TC007"/>
+      <class name="seleniumWebdriver.TC006"/>
+      <class name="seleniumWebdriver.TC005"/>
+      <class name="seleniumWebdriver.TC004"/>
+      <class name="seleniumWebdriver.TC003"/>
+      <class name="seleniumWebdriver.TC002"/>
+      <class name="seleniumWebdriver.TC001"/>
+      <class name="seleniumWebdriver.TestNG1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
